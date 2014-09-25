@@ -1,0 +1,3307 @@
+<?xml version="1.0"?>
+<!-- Created by XMetaL style generator. (c)2006 JustSystems Canada Inc. All rights reserved. -->
+<!-- The following files are identical: ditabase.ctm, topic_ditabase.ctm, glossary_glossary.ctm, concept_ditabase.ctm, reference_ditabase.ctm, task_ditabase.ctm, ditabase_ditabase.ctm -->
+<!DOCTYPE DTDExtensions SYSTEM "ctm.dtd">
+<DTDExtensions Version="2.0">
+<ElementPropertiesList>
+    <GlobalPrettyPrintOptions>
+      <IndentAmount>2</IndentAmount>
+      <MaxLineLength>80000</MaxLineLength>
+    </GlobalPrettyPrintOptions>
+  <ElementProperties>
+    <Name ns="">abstract</Name>
+    <LongDescription></LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+      <Name ns="">alt</Name>
+      <LongDescription>alternative text</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">apiname</Name>
+      <LongDescription>API name</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">area</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">audience</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">author</Name>
+      <PrettyPrintOptions>
+        <IndentContent/>
+        <NewLineBeforeStartTag/>
+        <NewLineAfterEndTag/>
+      </PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">b</Name>
+      <LongDescription>bold</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">body</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">boolean</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">brand</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">category</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">chdesc</Name>
+      <LongDescription>choice description</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">chdeschd</Name>
+      <LongDescription>label for the "Description" column of a choice table</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">chhead</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">choice</Name>
+      <LongDescription>description of one way to accomplish the current step</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">choices</Name>
+      <LongDescription>list of multiple ways to accomplish the current step</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">choicetable</Name>
+      <LongDescription>table describing optional choices for the current step</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">choption</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">choptionhd</Name>
+      <LongDescription>label for the "Option" column of a choice table</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">chrow</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">cite</Name>
+      <LongDescription>bibliographic citation</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">cmd</Name>
+      <LongDescription>instructive command for the current step</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">cmdname</Name>
+      <LongDescription>command name</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">codeblock</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">codeph</Name>
+      <LongDescription>code phrase</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">colspec</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">component</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">conbody</Name>
+      <LongDescription>body of a concept topic</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">concept</Name>
+      <LongDescription>concept topic</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">context</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">coords</Name>
+      <LongDescription>coordinates</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">copyrholder</Name>
+      <LongDescription>copyright holder</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">copyright</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">copyryear</Name>
+      <LongDescription>copyright year</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">created</Name>
+      <LongDescription>date created</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+  <ElementProperties>
+      <Name ns="">critdates</Name>
+      <LongDescription>critical dates</LongDescription>
+      <PrettyPrintOptions>
+        <IndentContent/>
+        <NewLineAfterEndTag/>
+        <NewLineBeforeStartTag/>
+      </PrettyPrintOptions>
+    </ElementProperties>
+  <ElementProperties>
+    <Name ns="">data-about</Name>
+    <LongDescription>specify the subject of the data element</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineAfterEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+    <Name ns="">data</Name>
+    <LongDescription>additional data about an element</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineAfterEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties> 
+      <Name ns="">dd</Name>
+      <LongDescription>definition description</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">ddhd</Name>
+      <LongDescription>definition descriptions heading</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">delim</Name>
+      <LongDescription>delimiter</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">desc</Name>
+      <LongDescription>description</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">dita</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">dl</Name>
+      <LongDescription>definition list</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">dlentry</Name>
+      <LongDescription>definition list entry</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">dlhead</Name>
+      <LongDescription>definition list heading</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">draft-comment</Name>
+      <LongDescription>draft comment</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">dt</Name>
+      <LongDescription>definition term</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">dthd</Name>
+      <LongDescription>definition term heading</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">entry</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">example</Name>
+      <LongDescription>section containing examples to illustrate the topic</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">featnum</Name>
+      <LongDescription>feature number</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">fig</Name>
+      <LongDescription>figure</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">figgroup</Name>
+      <LongDescription>figure group</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">filepath</Name>
+      <LongDescription>path to a file</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">fn</Name>
+      <LongDescription>footnote</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+  <ElementProperties>
+    <Name ns="">foreign</Name>
+    <LongDescription>(used to incorporate non-DITA content)</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+      <Name ns="">fragment</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">fragref</Name>
+      <LongDescription>reference to a syntax fragment</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+  <ElementProperties>
+    <Name ns="">glossdef</Name>
+    <LongDescription>glossary definition</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+    <Name ns="">glossentry</Name>
+    <LongDescription>glossary entry</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+    <Name ns="">glossterm</Name>
+    <LongDescription>glossary term</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+      <Name ns="">groupchoice</Name>
+      
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">groupcomp</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">groupseq</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">i</Name>
+      <LongDescription>italics</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">image</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">imagemap</Name>
+      <LongDescription>image map</LongDescription>
+      <PrettyPrintOptions>
+      <IgnoreMaxLineLength/>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+  <ElementProperties>
+    <Name ns="">index-base</Name>
+    <LongDescription>(not for use by authors)</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+    <Name ns="">index-see</Name>
+    <LongDescription>see another index term</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+    <Name ns="">index-see-also</Name>
+    <LongDescription>see also another index term</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+    <Name ns="">index-sort-as</Name>
+    <LongDescription>specify how to sort this index term</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+  <ElementProperties>
+      <Name ns="">indexterm</Name>
+      <LongDescription>index term</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">indextermref</Name>
+      <LongDescription>reference to an index term</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">info</Name>
+      <LongDescription>additional information about the current step</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">itemgroup</Name>
+      <LongDescription>(not for use by authors)</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">keyword</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">keywords</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">kwd</Name>
+      <LongDescription>keyword</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">li</Name>
+      <LongDescription>list item</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">lines</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">link</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">linkinfo</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">linklist</Name>
+      <LongDescription>list of links</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">linkpool</Name>
+      <LongDescription>pool of links</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">linktext</Name>
+      <LongDescription>text to appear in the current link</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">lq</Name>
+      <LongDescription>long quotation</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">menucascade</Name>
+      <LongDescription>menu name and commands</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">metadata</Name>
+      <PrettyPrintOptions>
+        <IndentContent/>
+        <NewLineBeforeStartTag/>
+        <NewLineAfterEndTag/>
+      </PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">msgblock</Name>
+      <LongDescription>message block</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">msgnum</Name>
+      <LongDescription>message number</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">msgph</Name>
+      <LongDescription>message phrase</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">navtitle</Name>
+      <LongDescription>navigation title</LongDescription>
+      <HideInNormalView/>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">no-topic-nesting</Name>
+      <LongDescription>(not for use by authors)</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">note</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">object</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">ol</Name>
+      <LongDescription>ordered list</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">oper</Name>
+      <LongDescription>operator</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">option</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">othermeta</Name>
+      <LongDescription>other metadata</LongDescription>
+      <PrettyPrintOptions>
+        <IndentContent/>
+        <NewLineBeforeEndTag/>
+        <NewLineBeforeStartTag/>
+      </PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">p</Name>
+      <LongDescription>paragraph</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">param</Name>
+      <LongDescription>parameter</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">parml</Name>
+      <LongDescription>parameter list</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">parmname</Name>
+      <LongDescription>parameter name</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">pd</Name>
+      <LongDescription>parameter definition</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">permissions</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">ph</Name>
+      <LongDescription>phrase</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">platform</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">plentry</Name>
+      <LongDescription>parameter list entry</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">postreq</Name>
+      <LongDescription>task post-requisites</LongDescription>
+      <PrettyPrintOptions>
+        <BlankLineAfterStartTag/>
+        <IndentContent/>
+        <NewLineBeforeEndTag/>
+        <NewLineBeforeStartTag/>
+      </PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">pre</Name>
+      <LongDescription>preformatted text</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">prereq</Name>
+      <LongDescription>task pre-requisites</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">prodinfo</Name>
+      <LongDescription>product info</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">prodname</Name>
+      <LongDescription>product name</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">prognum</Name>
+      <LongDescription>program number</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">prolog</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">propdesc</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">propdeschd</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">properties</Name>
+      <LongDescription>properties table</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">property</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">prophead</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">proptype</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">proptypehd</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">propvalue</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">propvaluehd</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">pt</Name>
+      <LongDescription>parameter term</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">publisher</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">q</Name>
+      <LongDescription>quotation</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">refbody</Name>
+      <LongDescription>body of a reference topic</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">reference</Name>
+      <LongDescription>reference topic</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">refsyn</Name>
+      <LongDescription>reference syntax section</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">related-links</Name>
+      <LongDescription>related links for the topic</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">repsep</Name>
+      <LongDescription>repeat separator</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">required-cleanup</Name>
+      <LongDescription>placeholder for migrated elements requiring cleanup</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">resourceid</Name>
+      <LongDescription>resource id</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">result</Name>
+      <LongDescription>result of the task as a whole</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">revised</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">row</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">screen</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">searchtitle</Name>
+      <LongDescription>title used for searches</LongDescription>
+      <HideInNormalView/>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">section</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">sep</Name>
+      <LongDescription>separator</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">series</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">shape</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">shortcut</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">shortdesc</Name>
+      <LongDescription>short description</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">simpletable</Name>
+      <LongDescription>simple table</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">sl</Name>
+      <LongDescription>simple list</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">sli</Name>
+      <LongDescription>simple list item</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">source</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">state</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">stentry</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">step</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">stepresult</Name>
+      <LongDescription>step result</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">steps</Name>
+      <LongDescription>list of ordered steps</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">steps-unordered</Name>
+      <LongDescription>list of unordered steps</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">stepxmp</Name>
+      <LongDescription>step example</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">sthead</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">strow</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">sub</Name>
+      <LongDescription>subscript</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">substep</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">substeps</Name>
+      <LongDescription>list of substeps</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">sup</Name>
+      <LongDescription>superscript</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">synblk</Name>
+      <LongDescription>syntax block</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">synnote</Name>
+      <LongDescription>syntax note</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">synnoteref</Name>
+      <LongDescription>reference to a syntax note</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">synph</Name>
+      <LongDescription>syntax phrase</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">syntaxdiagram</Name>
+      <LongDescription>syntax diagram</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">systemoutput</Name>
+      <LongDescription>system output</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">table</Name>
+      <LongDescription>normal table</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">task</Name>
+      <LongDescription>task topic</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">taskbody</Name>
+      <LongDescription>body of a task topic</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">tbody</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">term</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">tgroup</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">thead</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">title</Name>
+      <PrettyPrintOptions>
+        <IndentContent/>
+        <NewLineBeforeStartTag/>
+      </PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">titlealts</Name>
+      <LongDescription>alternative titles</LongDescription>
+      <HideInNormalView/>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">tm</Name>
+      <LongDescription>trademark</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">topic</Name>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">tt</Name>
+      <LongDescription>teletype</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">tutorialinfo</Name>
+      <LongDescription>additional information to include in tutorials</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+  <ElementProperties>
+      <Name ns="">u</Name>
+      <LongDescription>underline</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">uicontrol</Name>
+      <LongDescription>user interface control</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+ <ElementProperties>
+    <Name ns="">unknown</Name>
+    <LongDescription>(used to incorporate non-DITA content)</LongDescription>
+    <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/>
+    </PrettyPrintOptions>
+  </ElementProperties>
+
+  <ElementProperties>
+      <Name ns="">ul</Name>
+      <LongDescription>unordered list</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">userinput</Name>
+      <LongDescription>input made by the user</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">var</Name>
+      <LongDescription>variable</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">varname</Name>
+      <LongDescription>variable name</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">vrm</Name>
+      <LongDescription>version-release-modification identifier</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">vrmlist</Name>
+      <LongDescription>list of version-release-modification identifiers</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">wintitle</Name>
+      <LongDescription>window title</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    <ElementProperties>
+      <Name ns="">xref</Name>
+      <LongDescription>cross-reference, file reference, or web link</LongDescription>
+      <PrettyPrintOptions>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    
+      <ElementProperties>
+      <Name ns="">lcHotspotMap</Name>
+      <LongDescription>Hot spot map</LongDescription>
+      <PrettyPrintOptions>
+      <IgnoreMaxLineLength/>
+      <IndentContent/>
+      <NewLineBeforeEndTag/>
+      <NewLineBeforeStartTag/></PrettyPrintOptions>
+    </ElementProperties>
+    
+    
+  </ElementPropertiesList>
+   <ListElements>
+    <NumberedList>
+      <Name ns="">ol</Name>
+      <ListItem ns="">li</ListItem>
+    </NumberedList>
+    <BulletedList>
+      <Name ns="">ul</Name>
+      <ListItem ns="">li</ListItem>
+    </BulletedList>
+    <DefinitionList>
+      <Name ns="">dl</Name>
+      <DefinitionTerm ns="">dlentry</DefinitionTerm>
+      <DefinitionDefinition ns="">dlhead</DefinitionDefinition>
+    </DefinitionList>
+  </ListElements>
+    
+  <TogglingInlines>
+    <Bold>
+      <Name ns="">b</Name>
+    </Bold>
+    <Italic>
+      <Name ns="">i</Name>
+    </Italic>
+    <Underline>
+      <Name ns="">u</Name>
+    </Underline>
+  </TogglingInlines>
+  <Paragraphs>
+    <Paragraph>
+      <Name ns="">p</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">body</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">conbody</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">refbody</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">taskbody</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">dd</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">dt</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">choices</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">keywords</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">vrmlist</Name>
+    </Paragraph>
+    <Paragraph>
+      <Name ns="">section</Name>
+    </Paragraph>
+  </Paragraphs>
+  <FollowedByList>
+    <FollowedByListItem>
+      <Name ns="">p</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">choices</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">keywords</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">linklist</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">ol</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">ul</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">vrmlist</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">navtitle</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">searchtitle</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">wintitle</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">table</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">topic</Name>
+      <FollowedBy ns="">title</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">boolean</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">dt</Name>
+      <FollowedBy ns="">dd</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">dd</Name>
+      <FollowedBy ns="">dt</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">title</Name>
+      <FollowedBy ns="">p</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">concept</Name>
+      <FollowedBy ns="">conbody</FollowedBy>
+    </FollowedByListItem>
+    <FollowedByListItem>
+      <Name ns="">title</Name>
+      <Parent ns="">fig</Parent>
+      <FollowedBy ns="">image</FollowedBy>
+    </FollowedByListItem>
+  </FollowedByList>
+  <Templates>
+    <Template>
+      <Name ns="">p</Name>
+      <MiniTemplate><![CDATA[<p><?xm-replace_text Paragraph?></p>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">navtitle</Name>
+      <MiniTemplate><![CDATA[<navtitle><?xm-replace_text Navigation Title?></navtitle>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">searchtitle</Name>
+      <MiniTemplate><![CDATA[<searchtitle><?xm-replace_text Search Title?></searchtitle>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">title</Name>
+      <MiniTemplate><![CDATA[<title><?xm-replace_text Title?></title>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">wintitle</Name>
+      <MiniTemplate><![CDATA[<wintitle><?xm-replace_text Window Title?></wintitle>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">choice</Name>
+      <MiniTemplate><![CDATA[<choice><?xm-replace_text Choice?></choice>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">choices</Name>
+      <MiniTemplate><![CDATA[<choices><choice><?xm-replace_text Choice?></choice></choices>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">keyword</Name>
+      <MiniTemplate><![CDATA[<keyword><?xm-replace_text Keyword?></keyword>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">keywords</Name>
+      <MiniTemplate><![CDATA[<keywords><keyword><?xm-replace_text Keyword?></keyword></keywords>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">link</Name>
+      <MiniTemplate><![CDATA[<link><linktext><?xm-replace_text Link?></linktext></link>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">linklist</Name>
+      <MiniTemplate><![CDATA[<linklist><link><linktext><?xm-replace_text Link?></linktext></link></linklist>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">li</Name>
+      <MiniTemplate><![CDATA[<li><?xm-replace_text List Item?></li>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">ol</Name>
+      <MiniTemplate><![CDATA[<ol><li><?xm-replace_text List Item?></li></ol>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">ul</Name>
+      <MiniTemplate><![CDATA[<ul><li><?xm-replace_text List Item?></li></ul>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">vrm</Name>
+      <MiniTemplate><![CDATA[<vrm><?xm-replace_text Version Release Modification?></vrm>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">vrmlist</Name>
+      <MiniTemplate><![CDATA[<vrmlist><vrm><?xm-replace_text Version Release Modification?></vrm></vrmlist>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">section</Name>
+      <MiniTemplate><![CDATA[<section><title><?xm-replace_text Section Title?></title><p><?xm-replace_text Paragraph?></p></section>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">example</Name>
+      <MiniTemplate><![CDATA[<example><title><?xm-replace_text Example Title?></title><p><?xm-replace_text Paragraph?></p></example>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">properties</Name>
+      <MiniTemplate><![CDATA[<properties><prophead><proptypehd>Type</proptypehd><propvaluehd>Value</propvaluehd><propdeschd>Description</propdeschd></prophead><property><proptype><?xm-replace_text Property Type?></proptype><propvalue><?xm-replace_text Property Value?></propvalue><propdesc><?xm-replace_text Property Description?></propdesc></property></properties>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">propdesc</Name>
+      <MiniTemplate><![CDATA[<propdesc><?xm-replace_text Property Description?></propdesc>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">propdeschd</Name>
+      <MiniTemplate><![CDATA[<propdeschd>Property Description</propdeschd>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">property</Name>
+      <MiniTemplate><![CDATA[<property><proptype><?xm-replace_text Property Type?></proptype><propvalue><?xm-replace_text Property Value?></propvalue><propdesc><?xm-replace_text Property Description?></propdesc></property>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">prophead</Name>
+      <MiniTemplate><![CDATA[<prophead><proptypehd>Property Type</proptypehd><propvaluehd>Property Value</propvaluehd><propdeschd>Property Description</propdeschd></prophead>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">proptype</Name>
+      <MiniTemplate><![CDATA[<proptype><?xm-replace_text Type?></proptype>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">proptypehd</Name>
+      <MiniTemplate><![CDATA[<proptypehd>Type</proptypehd>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">propvalue</Name>
+      <MiniTemplate><![CDATA[<propvalue><?xm-replace_text Property Value?></propvalue>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">propvaluehd</Name>
+      <MiniTemplate><![CDATA[<propvaluehd>Value</propvaluehd>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">taskbody</Name>
+      <MiniTemplate><![CDATA[<taskbody><context><?xm-replace_text Task context?></context><steps><step><cmd><?xm-replace_text Step?></cmd></step></steps></taskbody>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">steps</Name>
+      <MiniTemplate><![CDATA[<steps><step><cmd><?xm-replace_text Step?></cmd></step></steps>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">step</Name>
+      <MiniTemplate><![CDATA[<step><cmd><?xm-replace_text Step?></cmd></step>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">reference</Name>
+      <MiniTemplate><![CDATA[<reference><title><?xm-replace_text Reference Title?></title>
+<shortdesc><?xm-replace_text Short Description?></shortdesc><refbody><refsyn><?xm-replace_text Syntax?></refsyn><properties><prophead><proptypehd>Type</proptypehd><propvaluehd>Value</propvaluehd><propdeschd>Description</propdeschd></prophead><property><proptype><?xm-replace_text Type?></proptype><propvalue><?xm-replace_text Value?></propvalue><propdesc><?xm-replace_text Description?></propdesc></property></properties></refbody></reference>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">shortdesc</Name>
+      <MiniTemplate><![CDATA[<shortdesc><?xm-replace_text Short Description?></shortdesc>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">topic</Name>
+      <MiniTemplate><![CDATA[<topic><title><?xm-replace_text Topic Title?></title>
+<shortdesc><?xm-replace_text Short Description?></shortdesc><body><p><?xm-replace_text Paragraph?></p></body></topic>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">boolean</Name>
+      <MiniTemplate><![CDATA[<boolean state="no"/>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">dt</Name>
+      <MiniTemplate><![CDATA[<dt><?xm-replace_text Definition Term?></dt>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">dd</Name>
+      <MiniTemplate><![CDATA[<dd><?xm-replace_text Definition Description?></dd>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">dl</Name>
+      <MiniTemplate><![CDATA[<dl><dlentry><dt><?xm-replace_text Definition Term?></dt><dd><?xm-replace_text Definition Description?></dd></dlentry></dl>]]></MiniTemplate>
+    </Template>
+    <Template>
+          <Name ns="">dlentry</Name>
+          <MiniTemplate><![CDATA[<dlentry><dt><?xm-replace_text Definition Term?></dt><dd><?xm-replace_text Definition Description?></dd></dlentry>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">task</Name>
+      <MiniTemplate><![CDATA[<task><title><?xm-replace_text Task Title?></title>
+<shortdesc><?xm-replace_text Short Description?></shortdesc><taskbody><context><p><?xm-replace_text Task Context?></p></context><steps><step><cmd><?xm-replace_text Step?></cmd></step></steps></taskbody></task>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">concept</Name>
+      <MiniTemplate><![CDATA[<concept><title><?xm-replace_text Concept Title?></title>
+<shortdesc><?xm-replace_text Short Description?></shortdesc><conbody><p><?xm-replace_text Paragraph?></p></conbody></concept>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">related-links</Name>
+      <MiniTemplate><![CDATA[<related-links></related-links>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">image</Name>
+      <MiniTemplate><![CDATA[<image placement="break" align="center"></image>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">choicetable</Name>
+      <MiniTemplate><![CDATA[<choicetable>
+<chhead><choptionhd>Option</choptionhd><chdeschd>Description</chdeschd></chhead><chrow><choption><?xm-replace_text Option?></choption>	<chdesc><?xm-replace_text Description?></chdesc></chrow></choicetable>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">table</Name>
+      <MiniTemplate><![CDATA[<table><title><?xm-replace_text Title?></title><tgroup cols="2"><tbody><row><entry></entry><entry></entry></row></tbody></tgroup></table>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">choption</Name>
+      <MiniTemplate><![CDATA[<choption><?xm-replace_text Option?></choption>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">chdesc</Name>
+      <MiniTemplate><![CDATA[<chdesc><?xm-replace_text Description?></chdesc>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">chrow</Name>
+      <MiniTemplate><![CDATA[<chrow><choption><?xm-replace_text Option?></choption>	<chdesc><?xm-replace_text Description?></chdesc></chrow>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">fig</Name>
+      <MiniTemplate><![CDATA[<fig><title><?xm-replace_text Figure Title?></title><image placement="break" align="center"></image></fig>]]></MiniTemplate>
+    </Template>
+	<Template>
+      <Name ns="">prolog</Name>
+<MiniTemplate><![CDATA[<prolog><metadata><keywords></keywords></metadata></prolog>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">postreq</Name>
+      <MiniTemplate><![CDATA[<postreq><p><?xm-replace_text Task post-requisite?></p></postreq>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">prereq</Name>
+      <MiniTemplate><![CDATA[<prereq><p><?xm-replace_text Task prerequisite?></p></prereq>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">stepresult</Name>
+      <MiniTemplate><![CDATA[<stepresult><?xm-replace_text Step Result?></stepresult>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">result</Name>
+      <MiniTemplate><![CDATA[<result><?xm-replace_text Task Result?></result>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">context</Name>
+      <MiniTemplate><![CDATA[<context><p><?xm-replace_text Task Context?></p></context>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">lq</Name>
+      <MiniTemplate><![CDATA[<lq><?xm-replace_text Quotation?></lq>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">stentry</Name>
+      <MiniTemplate><![CDATA[<stentry></stentry>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">strow</Name>
+      <MiniTemplate><![CDATA[<strow><stentry></stentry></strow>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">sthead</Name>
+      <MiniTemplate><![CDATA[<sthead><stentry></stentry></sthead>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">title</Name>
+      <Parent ns="">fig</Parent>
+      <MiniTemplate><![CDATA[<title><?xm-replace_text Figure Title?></title>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">abstract</Name>
+      <MiniTemplate><![CDATA[<abstract><?xm-replace_text Abstract?></abstract>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">glossentry</Name>
+      <MiniTemplate><![CDATA[<glossentry><glossterm><?xm-replace_text Glossary Term?></glossterm><glossdef><?xm-replace_text Definition?></glossdef></glossentry>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">glossdef</Name>
+      <MiniTemplate><![CDATA[<glossdef><?xm-replace_text Definition?></glossdef>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">glossterm</Name>
+      <MiniTemplate><![CDATA[<glossterm><?xm-replace_text Glossary Term?></glossterm>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">info</Name>
+      <MiniTemplate><![CDATA[<info><?xm-replace_text Step Info?></info>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">tutorialinfo</Name>
+      <MiniTemplate><![CDATA[<tutorialinfo><?xm-replace_text Step Tutorial Info?></tutorialinfo>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">stepxmp</Name>
+      <MiniTemplate><![CDATA[<stepxmp><?xm-replace_text Step Example?></stepxmp>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">substeps</Name>
+      <MiniTemplate><![CDATA[<substeps><substep><cmd><?xm-replace_text Substep?></cmd></substep></substeps>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">substep</Name>
+      <MiniTemplate><![CDATA[<substep><cmd><?xm-replace_text Substep?></cmd></substep>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">indexterm</Name>
+      <MiniTemplate><![CDATA[<indexterm><?xm-replace_text Index Term?></indexterm>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">fn</Name>
+      <MiniTemplate><![CDATA[<fn><?xm-replace_text Footnote?></fn>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">menucascade</Name>
+      <MiniTemplate><![CDATA[<menucascade><uicontrol><?xm-replace_text UI Control?></uicontrol><uicontrol><?xm-replace_text UI Control?></uicontrol></menucascade>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">uicontrol</Name>
+      <MiniTemplate><![CDATA[<uicontrol><?xm-replace_text UI Control?></uicontrol>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">imagemap</Name>
+      <MiniTemplate><![CDATA[<imagemap><image></image><area><shape><?xm-replace_text Shape?></shape><coords><?xm-replace_text Co-ordinates?></coords><xref></xref></area></imagemap>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">ph</Name>
+      <MiniTemplate><![CDATA[<ph><?xm-replace_text Phrase?></ph>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">option</Name>
+      <MiniTemplate><![CDATA[<option><?xm-replace_text Option?></option>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">codeph</Name>
+      <MiniTemplate><![CDATA[<codeph><?xm-replace_text Code Phrase?></codeph>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">sl</Name>
+      <MiniTemplate><![CDATA[<sl><sli><?xm-replace_text Simple List Item?></sli></sl>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">sli</Name>
+      <MiniTemplate><![CDATA[<sli><?xm-replace_text Simple List Item?></sli>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">filepath</Name>
+      <MiniTemplate><![CDATA[<filepath><?xm-replace_text File Path?></filepath>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">term</Name>
+      <MiniTemplate><![CDATA[<term><?xm-replace_text Term?></term>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">msgph</Name>
+      <MiniTemplate><![CDATA[<msgph><?xm-replace_text Message Phrase?></msgph>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">codeblock</Name>
+      <MiniTemplate><![CDATA[<codeblock><?xm-replace_text Codeblock?></codeblock>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">userinput</Name>
+      <MiniTemplate><![CDATA[<userinput><?xm-replace_text User Input?></userinput>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">cmdname</Name>
+      <MiniTemplate><![CDATA[<cmdname><?xm-replace_text Command Name?></cmdname>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">cmdname</Name>
+      <MiniTemplate><![CDATA[<cmdname><?xm-replace_text Command Name?></cmdname>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">msgblock</Name>
+      <MiniTemplate><![CDATA[<msgblock><?xm-replace_text Message Block?></msgblock>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">varname</Name>
+      <MiniTemplate><![CDATA[<varname><?xm-replace_text Variable Name?></varname>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">pre</Name>
+      <MiniTemplate><![CDATA[<pre><?xm-replace_text Preformatted Text?></pre>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">q</Name>
+      <MiniTemplate><![CDATA[<q><?xm-replace_text Quotation?></q>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">systemoutput</Name>
+      <MiniTemplate><![CDATA[<systemoutput><?xm-replace_text System Output?></systemoutput>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">msgnum</Name>
+      <MiniTemplate><![CDATA[<msgnum><?xm-replace_text Message Number?></msgnum>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">parmname</Name>
+      <MiniTemplate><![CDATA[<parmname><?xm-replace_text Parameter Name?></parmname>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">pt</Name>
+      <MiniTemplate><![CDATA[<pt><?xm-replace_text Parameter Term?></pt>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">pd</Name>
+      <MiniTemplate><![CDATA[<pd><?xm-replace_text Parameter Definition?></pd>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">draft-comment</Name>
+      <MiniTemplate><![CDATA[<draft-comment><?xm-replace_text Draft Comment?></draft-comment>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">tm</Name>
+      <MiniTemplate><![CDATA[<tm><?xm-replace_text Trademark?></tm>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">parml</Name>
+      <MiniTemplate><![CDATA[<parml><plentry><pt><?xm-replace_text Parameter Term?></pt><pd><?xm-replace_text Parameter Definition?></pd></plentry></parml>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">apiname</Name>
+      <MiniTemplate><![CDATA[<apiname><?xm-replace_text API Name?></apiname>]]></MiniTemplate>
+    </Template>
+    <Template>
+      <Name ns="">lines</Name>
+      <MiniTemplate><![CDATA[<lines><?xm-replace_text Lines?></lines>]]></MiniTemplate>
+    </Template>
+    <Template>
+    <Name ns="">lcHotspot</Name>
+    <MiniTemplate><![CDATA[<lcHotspot><lcQuestion><?xm-replace_text Question?></lcQuestion><lcHotspotMap><image></image>
+<lcArea><lcAreaShape><?xm-replace_text Shape?></lcAreaShape><lcAreaCoords><?xm-replace_text Co-ordinates?></lcAreaCoords><xref></xref></lcArea></lcHotspotMap></lcHotspot>]]></MiniTemplate>
+</Template>    
+    <Template>
+      <Name ns="">lcObjectives</Name>
+      <MiniTemplate><![CDATA[<lcObjectives> <lcObjectivesStem><?xm-replace_text Introductory sentence for the list of learning objectives?></lcObjectivesStem> <lcObjectivesGroup> 
+<lcObjective><?xm-replace_text Learning objective?></lcObjective> </lcObjectivesGroup>
+</lcObjectives>]]></MiniTemplate>
+    </Template>    
+    <Template>
+      <Name ns="">lcMatching</Name>
+      <MiniTemplate><![CDATA[<lcMatching><lcQuestion><?xm-replace_text Matching question?></lcQuestion>
+<lcMatchTable> <lcMatchingHeader><lcItem><?xm-replace_text Column Description?></lcItem><lcMatchingItem><?xm-replace_text Column Description?></lcMatchingItem></lcMatchingHeader>
+<lcMatchingPair><lcItem><?xm-replace_text Item?></lcItem><lcMatchingItem><?xm-replace_text Matching Item?></lcMatchingItem><lcMatchingItemFeedback><lcFeedbackCorrect><?xm-replace_text Feedback?></lcFeedbackCorrect><lcFeedbackIncorrect><?xm-replace_text Feedback?></lcFeedbackIncorrect></lcMatchingItemFeedback></lcMatchingPair><lcMatchingPair><lcItem><?xm-replace_text Item?></lcItem><lcMatchingItem><?xm-replace_text Matching Item?></lcMatchingItem><lcMatchingItemFeedback><lcFeedbackCorrect><?xm-replace_text Feedback?></lcFeedbackCorrect><lcFeedbackIncorrect><?xm-replace_text Feedback?></lcFeedbackIncorrect></lcMatchingItemFeedback></lcMatchingPair></lcMatchTable></lcMatching>]]></MiniTemplate>
+    </Template>    
+    <Template>
+      <Name ns="">lcQuestion</Name>
+      <MiniTemplate><![CDATA[<lcQuestion><?xm-replace_text Question?></lcQuestion>]]></MiniTemplate>
+    </Template>    
+        <Template>
+      <Name ns="">lcMatchTable</Name>
+      <MiniTemplate><![CDATA[<lcMatchTable> <lcMatchingHeader><lcItem><?xm-replace_text Column Description?></lcItem><lcMatchingItem><?xm-replace_text Column Description?></lcMatchingItem></lcMatchingHeader>
+<lcMatchingPair><lcItem><?xm-replace_text Item?></lcItem><lcMatchingItem><?xm-replace_text Matching Item?></lcMatchingItem><lcMatchingItemFeedback><lcFeedbackCorrect><?xm-replace_text Feedback?></lcFeedbackCorrect><lcFeedbackIncorrect><?xm-replace_text Feedback?></lcFeedbackIncorrect></lcMatchingItemFeedback></lcMatchingPair><lcMatchingPair><lcItem><?xm-replace_text Item?></lcItem><lcMatchingItem><?xm-replace_text Matching Item?></lcMatchingItem><lcMatchingItemFeedback><lcFeedbackCorrect><?xm-replace_text Feedback?></lcFeedbackCorrect><lcFeedbackIncorrect><?xm-replace_text Feedback?></lcFeedbackIncorrect></lcMatchingItemFeedback></lcMatchingPair></lcMatchTable>]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">lcAnswerOptionGroup</Name>
+      <MiniTemplate><![CDATA[<lcAnswerOptionGroup><lcAnswerOption>
+<lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption></lcAnswerOptionGroup>]]></MiniTemplate>
+    </Template>
+    
+     <Template>
+      <Name ns="">lcMultipleSelect</Name>
+      <MiniTemplate><![CDATA[<lcMultipleSelect><lcQuestion><?xm-replace_text Multiple-selection question?></lcQuestion>
+<lcAnswerOptionGroup><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption> <lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption> <lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption> <lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption> </lcAnswerOptionGroup></lcMultipleSelect>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcAnswerContent</Name>
+      <MiniTemplate><![CDATA[<lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcSequencing</Name>
+      <MiniTemplate><![CDATA[<lcSequencing><lcQuestion><?xm-replace_text Sequencing question?></lcQuestion> 
+<lcSequenceOptionGroup><lcSequenceOption><lcAnswerContent><?xm-replace_text Item to put into sequence?></lcAnswerContent><lcSequence/></lcSequenceOption><lcSequenceOption><lcAnswerContent><?xm-replace_text Item to put into sequence?></lcAnswerContent><lcSequence/></lcSequenceOption><lcSequenceOption><lcAnswerContent><?xm-replace_text Item to put into sequence?></lcAnswerContent><lcSequence/></lcSequenceOption></lcSequenceOptionGroup></lcSequencing>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcSequenceOption</Name>
+      <MiniTemplate><![CDATA[<lcSequenceOption><lcAnswerContent><?xm-replace_text Item to put into sequence?></lcAnswerContent><lcSequence/></lcSequenceOption>]]></MiniTemplate>
+    </Template>
+       
+     <Template>
+      <Name ns="">lcSingleSelect</Name>
+      <MiniTemplate><![CDATA[<lcSingleSelect> <lcQuestion><?xm-replace_text Single-selection question?></lcQuestion>
+<lcAnswerOptionGroup><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent>
+</lcAnswerOption><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent>
+</lcAnswerOption><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent>
+</lcAnswerOption></lcAnswerOptionGroup>
+ 
+</lcSingleSelect>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcFeedback</Name>
+      <MiniTemplate><![CDATA[<lcFeedback><?xm-replace_text Feedback?></lcFeedback>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcTrueFalse</Name>
+      <MiniTemplate><![CDATA[<lcTrueFalse><lcQuestion><?xm-replace_text True/false question?></lcQuestion>
+<lcAnswerOptionGroup><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption></lcAnswerOptionGroup></lcTrueFalse>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">learningAssessment</Name>
+      <MiniTemplate><![CDATA[<learningAssessment> 
+<title><?xm-replace_text Learning Assessment Title?></title> 
+<learningAssessmentbody> <lcInteraction><lcMultipleSelect><lcQuestion><?xm-replace_text Question?></lcQuestion>
+<lcAnswerOptionGroup><lcAnswerOption>
+<lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption></lcAnswerOptionGroup></lcMultipleSelect></lcInteraction>
+</learningAssessmentbody></learningAssessment>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcSummary</Name>
+      <MiniTemplate><![CDATA[<lcSummary> 
+<p><?xm-replace_text Summary?>
+</p></lcSummary>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcDuration</Name>
+      <MiniTemplate><![CDATA[<lcDuration><lcTime><?xm-replace_text Time needed for this activity?></lcTime></lcDuration>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcIntro</Name>
+      <MiniTemplate><![CDATA[<lcIntro><p><?xm-replace_text Introduction?></p></lcIntro>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcAnswerOption</Name>
+      <MiniTemplate><![CDATA[<lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcOpenAnswer</Name>
+      <MiniTemplate><![CDATA[<lcOpenAnswer><?xm-replace_text Open Answer?></lcOpenAnswer>]]></MiniTemplate>
+    </Template>
+        
+        <Template>
+      <Name ns="">lcAge</Name>
+      <MiniTemplate><![CDATA[<lcAge><?xm-replace_text Audience age range?></lcAge>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+              <Name ns="">lcGeneralDescription</Name>
+      <MiniTemplate><![CDATA[<lcGeneralDescription><?xm-replace_text General description?></lcGeneralDescription>
+]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcEdLevel</Name>
+      <MiniTemplate><![CDATA[<lcEdLevel><?xm-replace_text Audience educational level?></lcEdLevel>]]></MiniTemplate>
+    </Template>
+
+  
+        <Template>
+      <Name ns="">lcBackground</Name>
+      <MiniTemplate><![CDATA[<lcBackground><?xm-replace_text Audience background?></lcBackground>]]></MiniTemplate>
+    </Template>
+ 
+  
+        <Template>
+      <Name ns="">lcSkills</Name>
+      <MiniTemplate><![CDATA[<lcSkills><?xm-replace_text Audience skills?></lcSkills>
+]]></MiniTemplate>
+    </Template>
+
+        <Template>
+      <Name ns="">lcKnowledge</Name>
+      <MiniTemplate><![CDATA[<lcKnowledge><?xm-replace_text Audience knowledge?></lcKnowledge>]]></MiniTemplate>
+    </Template>
+  
+        <Template>
+      <Name ns="">lcMotivation</Name>
+      <MiniTemplate><![CDATA[<lcMotivation><?xm-replace_text Audience motivation?></lcMotivation>
+]]></MiniTemplate>
+    </Template>
+  
+   <Template>
+      <Name ns="">lcSpecChars</Name>
+      <MiniTemplate><![CDATA[<lcSpecChars><?xm-replace_text Audience special characteristics?></lcSpecChars>]]></MiniTemplate>
+    </Template>
+
+
+   <Template>
+      <Name ns="">lcPlanAudience</Name>
+      <MiniTemplate><![CDATA[<lcPlanAudience> 
+<title><?xm-replace_text Title for "Audience" Section?></title> 
+<lcGeneralDescription><?xm-replace_text Audience general description?></lcGeneralDescription>
+<lcEdLevel><?xm-replace_text Audience educational level?></lcEdLevel><lcAge><?xm-replace_text Audience age range?></lcAge>
+<lcBackground><?xm-replace_text Audience background?></lcBackground> <lcSkills><?xm-replace_text Audience skills?></lcSkills>
+<lcKnowledge><?xm-replace_text Audience knowledge?></lcKnowledge> 
+<lcMotivation><?xm-replace_text Audience motivation?></lcMotivation> 
+<lcSpecChars><?xm-replace_text Audience special characteristics?></lcSpecChars></lcPlanAudience>]]></MiniTemplate>
+    </Template>
+    
+   <Template>
+      <Name ns="">lcGoals</Name>
+      <MiniTemplate><![CDATA[
+<lcGoals><?xm-replace_text Organization goals?></lcGoals>]]></MiniTemplate>
+    </Template>
+    
+   <Template>
+      <Name ns="">lcNeeds</Name>
+      <MiniTemplate><![CDATA[<lcNeeds><?xm-replace_text Organization needs?></lcNeeds>
+]]></MiniTemplate>
+    </Template>
+    
+   <Template>
+      <Name ns="">lcValues</Name>
+      <MiniTemplate><![CDATA[<lcValues><?xm-replace_text Organization values?></lcValues>]]></MiniTemplate>
+    </Template>
+    
+   <Template>
+      <Name ns="">lcOrgConstraints</Name>
+      <MiniTemplate><![CDATA[<lcOrgConstraints><?xm-replace_text Organization constraints?></lcOrgConstraints>]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">lcOrganizational</Name>
+      <MiniTemplate><![CDATA[<lcOrganizational> 
+<title><?xm-replace_text Title for "Organization" Section?></title> 
+<lcGeneralDescription><?xm-replace_text Organization general description?></lcGeneralDescription>
+<lcGoals><?xm-replace_text Organization goals?></lcGoals><lcNeeds><?xm-replace_text Organization needs?></lcNeeds>
+<lcValues><?xm-replace_text Organization values?></lcValues><lcOrgConstraints><?xm-replace_text Organization constraints?></lcOrgConstraints></lcOrganizational>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcPlanObjective</Name>
+      <MiniTemplate><![CDATA[<lcPlanObjective><?xm-replace_text Plan objective?></lcPlanObjective>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcJtaItem</Name>
+      <MiniTemplate><![CDATA[<lcJtaItem><?xm-replace_text Job task analysis?></lcJtaItem> ]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcGapItemDelta</Name>
+      <MiniTemplate><![CDATA[<lcGapItemDelta><?xm-replace_text Gap item delta?></lcGapItemDelta>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcGapAnalysis</Name>
+      <MiniTemplate><![CDATA[<lcGapAnalysis> 
+<title><?xm-replace_text Title for "Gap Analysis" Section?></title><lcGapItem> 
+<title><?xm-replace_text Title for "Gap Item" Section?></title> 
+<lcPlanObjective><?xm-replace_text Plan objective?></lcPlanObjective> 
+<lcJtaItem><?xm-replace_text Job task analysis?></lcJtaItem> <lcGapItemDelta><?xm-replace_text Gap item delta?></lcGapItemDelta></lcGapItem></lcGapAnalysis>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcGapItem</Name>
+      <MiniTemplate><![CDATA[<lcGapItem> 
+<title><?xm-replace_text Title for "Gap Item" Section?></title><lcPlanObjective><?xm-replace_text Plan objective?></lcPlanObjective>
+<lcJtaItem><?xm-replace_text Job task analysis?></lcJtaItem> <lcGapItemDelta><?xm-replace_text Gap item delta?></lcGapItemDelta></lcGapItem>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcLearnStrat</Name>
+      <MiniTemplate><![CDATA[<lcLearnStrat><?xm-replace_text Strategy?></lcLearnStrat>
+]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcPlanObjective</Name>
+      <MiniTemplate><![CDATA[<lcPlanObjective><?xm-replace_text Plan objective?></lcPlanObjective>]]></MiniTemplate>
+    </Template>
+    
+        <Template>
+      <Name ns="">lcAssessment</Name>
+      <MiniTemplate><![CDATA[<lcAssessment><?xm-replace_text Assessment?></lcAssessment>]]></MiniTemplate>
+    </Template>
+
+  <Template>
+      <Name ns="">lcDelivery</Name>
+      <MiniTemplate><![CDATA[<lcDelivery><?xm-replace_text Delivery method?></lcDelivery>]]></MiniTemplate>
+    </Template>
+    
+  <Template>
+      <Name ns="">lcInterventionItem</Name>
+      <MiniTemplate><![CDATA[<lcIntervention> 
+<title><?xm-replace_text Title for "Intervention" Section?></title><lcInterventionItem> 
+<title><?xm-replace_text Title for "Intervention Item" Section?></title><lcLearnStrat><?xm-replace_text Strategy?></lcLearnStrat>
+<lcPlanObjective><?xm-replace_text Plan objective?></lcPlanObjective> 
+<lcAssessment><?xm-replace_text Assessment?></lcAssessment><lcDelivery><?xm-replace_text Delivery method?></lcDelivery></lcInterventionItem></lcIntervention>]]></MiniTemplate>
+    </Template>
+    
+    
+  <Template>
+      <Name ns="">lcIntervention</Name>
+      <MiniTemplate><![CDATA[<lcIntervention> 
+<title><?xm-replace_text Intervention Title?></title><lcInterventionItem> 
+<title><?xm-replace_text Intervention Item Title?></title><lcLearnStrat><?xm-replace_text Strategy?></lcLearnStrat>
+<lcPlanObjective><?xm-replace_text Plan objective?></lcPlanObjective> 
+<lcAssessment><?xm-replace_text Assessment?></lcAssessment><lcDelivery><?xm-replace_text Delivery method?></lcDelivery></lcInterventionItem></lcIntervention>]]></MiniTemplate>
+    </Template>
+    
+  <Template>
+      <Name ns="">lcLMS</Name>
+      <MiniTemplate><![CDATA[<lcLMS> 
+ <title><?xm-replace_text Title for "LMS" Section?></title><p><?xm-replace_text Learning Management System name and version number?>
+</p></lcLMS>]]></MiniTemplate>
+    </Template>
+    
+  <Template>
+      <Name ns="">lcNoLMS</Name>
+      <MiniTemplate><![CDATA[<lcNoLMS> 
+ <title><?xm-replace_text Title for "No LMS" Section?></title><p><?xm-replace_text No Learning Management System?>
+</p></lcNoLMS>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcHandouts</Name>
+      <MiniTemplate><![CDATA[<lcHandouts> 
+<title><?xm-replace_text Title for "Handouts" Section?></title><p><?xm-replace_text Handouts?>
+</p></lcHandouts>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcClassroom</Name>
+      <MiniTemplate><![CDATA[<lcClassroom> 
+<title><?xm-replace_text Title for "Classroom" Section?></title><p><?xm-replace_text Classroom?>
+</p></lcClassroom>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcConstraints</Name>
+      <MiniTemplate><![CDATA[<lcConstraints> 
+<title><?xm-replace_text Title for "Constraints" Section?></title><p><?xm-replace_text Constraints?>
+</p></lcConstraints>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcW3C</Name>
+      <MiniTemplate><![CDATA[<lcW3C> 
+<title><?xm-replace_text Title for "W3C" Section?></title><p><?xm-replace_text World Wide Web Consortium standards?>
+</p></lcW3C>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcPlayers</Name>
+      <MiniTemplate><![CDATA[<lcPlayers> 
+<title><?xm-replace_text Title for "Players" Section?></title><p><?xm-replace_text Tools and plugins for time-sequenced display at runtime?>
+</p></lcPlayers>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcGraphics</Name>
+      <MiniTemplate><![CDATA[<lcGraphics> 
+<title><?xm-replace_text Title for "Graphics" Section?></title><p><?xm-replace_text Standards and system requirements required for displaying graphics?>
+</p></lcGraphics>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcViewers</Name>
+      <MiniTemplate><![CDATA[<lcViewers> 
+<title><?xm-replace_text Title for "Viewers" Section"?></title><p><?xm-replace_text Viewers for time-sequenced display at runtime?>
+</p></lcViewers>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcResolution</Name>
+      <MiniTemplate><![CDATA[<lcResolution> 
+<title><?xm-replace_text Title for "Resolution" Section?></title><p><?xm-replace_text Computer screen resolution?>
+</p></lcResolution>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcFileSizeLimitations</Name>
+      <MiniTemplate><![CDATA[<lcFileSizeLimitations> 
+<title><?xm-replace_text Title for "File Size" Section?></title><p><?xm-replace_text File size limitations?>
+</p></lcFileSizeLimitations>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcDownloadTime</Name>
+      <MiniTemplate><![CDATA[<lcDownloadTime> 
+<title><?xm-replace_text Title for "Download Time" Section?></title><p><?xm-replace_text Maximum time allowed for download?>
+</p></lcDownloadTime>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcSecurity</Name>
+      <MiniTemplate><![CDATA[<lcSecurity> 
+<title><?xm-replace_text Title for "Security Requirements" Section?></title><p><?xm-replace_text Security requirements?>
+</p></lcSecurity>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcTechnical</Name>
+      <MiniTemplate><![CDATA[<lcTechnical> 
+<title><?xm-replace_text Title for "Technical Requirements" Section?></title>
+<lcLMS> 
+<title><?xm-replace_text Title for "LMS" Section?></title> 
+<p><?xm-replace_text Learning Management System name and version number?>
+</p></lcLMS><lcNoLMS> 
+<title><?xm-replace_text Title for "No LMS" Section?></title> 
+<p><?xm-replace_text No Learning Management System?>
+</p></lcNoLMS><lcHandouts> 
+<title><?xm-replace_text Title for "Handouts" Section?></title> 
+<p><?xm-replace_text Handouts?>
+</p></lcHandouts><lcClassroom> 
+<title><?xm-replace_text Title for "Classroom" Section?></title> 
+<p><?xm-replace_text Classroom?>
+</p></lcClassroom><lcOJT> 
+<title><?xm-replace_text Title for "On-the-job" Section?></title> 
+<p><?xm-replace_text On-the-job training?>
+</p></lcOJT><lcConstraints> 
+<title><?xm-replace_text Title for "Constraints" Section?></title> 
+<p><?xm-replace_text Constraints?>
+</p></lcConstraints><lcW3C> 
+<title><?xm-replace_text Title for "W3C" Section?></title> 
+<p><?xm-replace_text World Wide Web Consortium standards?>
+</p></lcW3C><lcPlayers> 
+<title><?xm-replace_text Title for "Players" Section?></title> 
+<p><?xm-replace_text Tools and plugins for time-sequenced display at runtime?>
+</p></lcPlayers><lcGraphics> 
+<title><?xm-replace_text Title for "Graphics" Section?></title> 
+<p><?xm-replace_text Standards and system requirements required for displaying graphics?>
+</p></lcGraphics><lcViewers> 
+<title><?xm-replace_text Title for "Viewers" Section"?></title> 
+<p><?xm-replace_text Viewers for time-sequenced display at runtime?>
+</p></lcViewers><lcResolution> 
+<title><?xm-replace_text Title for "Resolution" Section?></title> 
+<p><?xm-replace_text Computer screen resolution?>
+</p></lcResolution><lcFileSizeLimitations> 
+<title><?xm-replace_text Title for "File Size" Section?></title> 
+<p><?xm-replace_text File size limitations?>
+</p></lcFileSizeLimitations><lcDownloadTime> 
+<title><?xm-replace_text Title for "Download Time" Section?></title> 
+<p><?xm-replace_text Maximum time allowed for download?>
+</p></lcDownloadTime><lcSecurity> 
+<title><?xm-replace_text Title for "Security Requirements" Section?></title> 
+<p><?xm-replace_text Security requirements?>
+</p></lcSecurity></lcTechnical>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcClient</Name>
+      <MiniTemplate><![CDATA[<lcClient> 
+<p><?xm-replace_text Client?>
+</p></lcClient>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcCIN</Name>
+      <MiniTemplate><![CDATA[<lcCIN> 
+<p><?xm-replace_text Alternate identifier for project title?>
+</p></lcCIN>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcModDate</Name>
+      <MiniTemplate><![CDATA[<lcModDate> 
+<p><?xm-replace_text Project modification date?>
+</p></lcModDate>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcDelivDate</Name>
+      <MiniTemplate><![CDATA[<lcDelivDate> 
+<p><?xm-replace_text Project delivery date?>
+</p></lcDelivDate>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcPlanSubject</Name>
+      <MiniTemplate><![CDATA[<lcPlanSubject> 
+<p><?xm-replace_text Project plan subject?>
+</p></lcPlanSubject>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcPlanDescrip</Name>
+      <MiniTemplate><![CDATA[<lcPlanDescrip> 
+<p><?xm-replace_text Project plan description?>
+</p></lcPlanDescrip>]]></MiniTemplate>
+    </Template>
+        
+  <Template>
+      <Name ns="">lcPlanPrereqs</Name>
+      <MiniTemplate><![CDATA[<lcPlanPrereqs> 
+<p><?xm-replace_text Prerequisities?>
+</p></lcPlanPrereqs>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcProject</Name>
+      <MiniTemplate><![CDATA[<lcProject> 
+<title><?xm-replace_text Title for "Project" Section?></title><lcClient> 
+<p><?xm-replace_text Client?>
+</p></lcClient><lcPlanTitle> 
+<p><?xm-replace_text Plan title?>
+</p></lcPlanTitle><lcCIN> 
+<p><?xm-replace_text Alternate identifier for project title?>
+</p></lcCIN><lcModDate> 
+<p><?xm-replace_text Project modification date?>
+</p></lcModDate><lcDelivDate> 
+<p><?xm-replace_text Project delivery date?>
+</p></lcDelivDate><lcPlanSubject> 
+<p><?xm-replace_text Project plan subject?>
+</p></lcPlanSubject><lcPlanDescrip> 
+<p><?xm-replace_text Project plan description?>
+</p></lcPlanDescrip><lcPlanPrereqs> 
+<p><?xm-replace_text Prerequisities?>
+</p></lcPlanPrereqs></lcProject>]]></MiniTemplate>
+    </Template>
+            <Template>
+      <Name ns="">lcAsset</Name>
+      <MiniTemplate><![CDATA[<lcAsset><?xm-replace_text Asset?></lcAsset>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcAttitude</Name>
+      <MiniTemplate><![CDATA[<lcAttitude><?xm-replace_text Audience attitude?></lcAttitude>]]></MiniTemplate>
+    </Template>
+    
+
+    <Template>
+      <Name ns="">lcTaskItem</Name>
+      <MiniTemplate><![CDATA[<lcTaskItem><?xm-replace_text Task item?></lcTaskItem>]]></MiniTemplate>
+    </Template>
+    
+
+    <Template>
+      <Name ns="">lcTask</Name>
+      <MiniTemplate><![CDATA[<lcTask> 
+<title><?xm-replace_text Title for "Task" Section?></title><lcTaskItem><?xm-replace_text Task item?></lcTaskItem>
+<lcKnowledge><?xm-replace_text Audience knowledge?></lcKnowledge><lcSkills><?xm-replace_text Audience skills?></lcSkills>
+<lcAttitude><?xm-replace_text Audience attitude?></lcAttitude></lcTask>]]></MiniTemplate>
+    </Template>
+    
+
+    <Template>
+      <Name ns="">lcProcesses</Name>
+      <MiniTemplate><![CDATA[<lcProcesses><?xm-replace_text Processes?></lcProcesses>]]></MiniTemplate>
+    </Template>
+    
+
+    <Template>
+      <Name ns="">lcPlanResources</Name>
+      <MiniTemplate><![CDATA[<lcPlanResources><?xm-replace_text Resources?></lcPlanResources>]]></MiniTemplate>
+    </Template>
+    
+
+    <Template>
+      <Name ns="">lcWorkEnvDescription</Name>
+      <MiniTemplate><![CDATA[<lcWorkEnvDescription><?xm-replace_text Work environment description?></lcWorkEnvDescription>
+]]></MiniTemplate>
+    </Template>
+    
+    
+    <Template>
+      <Name ns="">lcWorkEnv</Name>
+      <MiniTemplate><![CDATA[<lcWorkEnv> 
+<title><?xm-replace_text Title for "Work Environment" Section?></title> 
+<lcWorkEnvDescription><?xm-replace_text Work environment description?></lcWorkEnvDescription>
+<lcPlanResources><?xm-replace_text Resources?></lcPlanResources><lcProcesses><?xm-replace_text Processes?></lcProcesses></lcWorkEnv>]]></MiniTemplate>
+    </Template>
+       
+    <Template>
+      <Name ns="">lcNextSteps</Name>
+      <MiniTemplate><![CDATA[<lcNextSteps> 
+<p><?xm-replace_text Next steps?>
+</p></lcNextSteps>]]></MiniTemplate>
+    </Template>
+       
+    <Template>
+      <Name ns="">lcResources</Name>
+      <MiniTemplate><![CDATA[<lcResources> 
+<p><?xm-replace_text Resources?>
+</p></lcResources>]]></MiniTemplate>
+    </Template>
+       
+    <Template>
+      <Name ns="">lcReview</Name>
+      <MiniTemplate><![CDATA[<lcReview> 
+<p><?xm-replace_text Review?>
+</p></lcReview>]]></MiniTemplate>
+    </Template>
+       
+    <Template>
+      <Name ns="">learningSummary</Name>
+      <MiniTemplate><![CDATA[<learningSummary> 
+<title><?xm-replace_text Learning Summary Title?></title><learningSummarybody>
+<lcObjectives> <lcObjectivesStem><?xm-replace_text Introductory sentence for the list of learning objectives?></lcObjectivesStem>
+<lcObjectivesGroup> <lcObjective><?xm-replace_text Learning objective?></lcObjective>
+</lcObjectivesGroup> </lcObjectives><lcReview> 
+<p><?xm-replace_text Review?>
+</p></lcReview><lcResources> 
+<p><?xm-replace_text Resources?>
+</p></lcResources><lcNextSteps> 
+<p><?xm-replace_text Next steps?>
+</p></lcNextSteps><lcSummary> 
+<p><?xm-replace_text Summary?>
+</p></lcSummary></learningSummarybody></learningSummary>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">learningSummarybody</Name>
+      <MiniTemplate><![CDATA[<learningSummarybody>
+<lcObjectives> <lcObjectivesStem><?xm-replace_text Introductory sentence for the list of learning objectives?></lcObjectivesStem>
+<lcObjectivesGroup> <lcObjective><?xm-replace_text Learning objective?></lcObjective>
+</lcObjectivesGroup> </lcObjectives><lcReview> 
+<p><?xm-replace_text Review?>
+</p></lcReview><lcResources> 
+<p><?xm-replace_text Resources?>
+</p></lcResources><lcNextSteps> 
+<p><?xm-replace_text Next steps?>
+</p></lcNextSteps><lcSummary> 
+<p><?xm-replace_text Summary?>
+</p></lcSummary></learningSummarybody>]]></MiniTemplate>
+    </Template>
+
+
+    <Template>
+      <Name ns="">lcPrereqs</Name>
+      <MiniTemplate><![CDATA[<lcPrereqs>
+<p><?xm-replace_text Prerequisites?>
+</p></lcPrereqs>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcAudience</Name>
+      <MiniTemplate><![CDATA[<lcAudience>
+<p><?xm-replace_text Audience?>
+</p></lcAudience> ]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcIntro</Name>
+      <MiniTemplate><![CDATA[<lcIntro>
+<p><?xm-replace_text Introduction?>
+</p></lcIntro>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcInstruction</Name>
+      <MiniTemplate><![CDATA[<lcInstruction> 
+<title><?xm-replace_text Title for "Instruction" Section?></title> 
+<p><?xm-replace_text Instructional content for the learning activity?>
+</p><lcInstructornote><?xm-replace_text Instructor note?></lcInstructornote>
+</lcInstruction>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcChallenge</Name>
+      <MiniTemplate><![CDATA[<lcChallenge> 
+<title><?xm-replace_text Title for "Challenge" Section?></title> 
+<p><?xm-replace_text Description of what the student will be challenged to do in the learning activity?>
+</p></lcChallenge>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcNeedsAnalysis</Name>
+      <MiniTemplate><![CDATA[<lcNeedsAnalysis> 
+<title><?xm-replace_text Title for "Needs Analysis" Section?></title> 
+<lcOrganizational> 
+<title><?xm-replace_text Title for "Organization" Section?></title> 
+<lcGeneralDescription><?xm-replace_text Organization general description?></lcGeneralDescription>
+<lcGoals><?xm-replace_text Organization goals?></lcGoals><lcNeeds><?xm-replace_text Organization needs?></lcNeeds>
+<lcValues><?xm-replace_text Organization values?></lcValues><lcOrgConstraints><?xm-replace_text Organization constraints?></lcOrgConstraints></lcOrganizational>
+<lcPlanAudience> 
+<title><?xm-replace_text Title for "Audience" Section?></title> 
+<lcGeneralDescription><?xm-replace_text Audience general description?></lcGeneralDescription>
+<lcEdLevel><?xm-replace_text Audience educational level?></lcEdLevel><lcAge><?xm-replace_text Audience age range?></lcAge>
+<lcBackground><?xm-replace_text Audience background?></lcBackground> <lcSkills><?xm-replace_text Audience skills?></lcSkills>
+<lcKnowledge><?xm-replace_text Audience knowledge?></lcKnowledge> 
+<lcMotivation><?xm-replace_text Audience motivation?></lcMotivation> 
+<lcSpecChars><?xm-replace_text Audience special characteristics?></lcSpecChars></lcPlanAudience>
+<lcWorkEnv> 
+<title><?xm-replace_text Title for "Work Environment" Section?></title> 
+<lcWorkEnvDescription><?xm-replace_text Work environment description?></lcWorkEnvDescription>
+<lcPlanResources><?xm-replace_text Resources?></lcPlanResources><lcProcesses><?xm-replace_text Processes?></lcProcesses></lcWorkEnv>
+<lcTask> 
+<title><?xm-replace_text Title for "Task" Section?></title><lcTaskItem><?xm-replace_text Task item?></lcTaskItem>
+<lcKnowledge><?xm-replace_text Audience knowledge?></lcKnowledge><lcSkills><?xm-replace_text Audience skills?></lcSkills>
+<lcAttitude><?xm-replace_text Audience attitude?></lcAttitude></lcTask></lcNeedsAnalysis>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcObjectivesGroup</Name>
+      <MiniTemplate><![CDATA[<lcObjectivesGroup> <lcObjective><?xm-replace_text Learning objective?></lcObjective>
+</lcObjectivesGroup>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <MiniTemplate>
+      <Name ns="">lcObjectivesStem</Name>
+      <MiniTemplate><![CDATA[<lcObjectivesStem><?xm-replace_text Introductory sentence for the list of learning objectives?></lcObjectivesStem>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcOJT</Name>
+      <MiniTemplate><![CDATA[<lcOJT> 
+<title><?xm-replace_text Title for "On-the-job" Section?></title> 
+<p><?xm-replace_text On-the-job training?>
+</p></lcOJT>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">lcPlanTitle</Name>
+      <MiniTemplate><![CDATA[<lcPlanTitle>
+<p><?xm-replace_text Plan title?>
+</p></lcPlanTitle>]]></MiniTemplate>
+    </Template>
+
+
+    <Template>
+      <Name ns="">lcInstructornote</Name>
+      <MiniTemplate><![CDATA[<lcInstructornote><?xm-replace_text Instructor note?></lcInstructornote>]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">lcOpenQuestion</Name>
+      <MiniTemplate><![CDATA[<lcOpenQuestion><lcQuestion><?xm-replace_text Open question?></lcQuestion></lcOpenQuestion>]]></MiniTemplate>
+    </Template>
+    
+    
+    <Template>
+      <Name ns="">learningContent</Name>
+      <MiniTemplate><![CDATA[<learningContent xml:lang="en-us"> 
+<title><?xm-replace_text Learning Content Title?></title> 
+<shortdesc><?xm-replace_text Short Description?>
+</shortdesc> <learningContentbody><lcIntro> 
+<p><?xm-replace_text Introduction?>
+</p></lcIntro><lcChallenge> 
+<title><?xm-replace_text Title for "Challenge" Section?></title> 
+<p><?xm-replace_text Description of what the student will be challenged to do in the learning activity?>
+</p></lcChallenge><lcInstruction> 
+<title><?xm-replace_text Title for "Instruction" Section?></title> 
+<p><?xm-replace_text Instructional content for the learning activity?>
+</p><lcInstructornote><?xm-replace_text Instructor note?></lcInstructornote>
+</lcInstruction></learningContentbody></learningContent>]]></MiniTemplate>
+    </Template>
+    
+    
+    <Template>
+      <Name ns="">learningAssessment</Name>
+      <MiniTemplate><![CDATA[<learningAssessment>
+	<title><?xm-replace_text Learning Assessment Title?></title>
+	<shortdesc><?xm-replace_text Short Description?>
+	</shortdesc><learningAssessmentbody><lcIntro><p><?xm-replace_text Introduction?></p></lcIntro><lcInteraction><lcMatching><lcQuestion><?xm-replace_text Matching question?></lcQuestion>
+<lcMatchTable> <lcMatchingHeader><lcItem><?xm-replace_text Column Description?></lcItem><lcMatchingItem><?xm-replace_text Column Description?></lcMatchingItem></lcMatchingHeader>
+<lcMatchingPair><lcItem><?xm-replace_text Item?></lcItem><lcMatchingItem><?xm-replace_text Matching Item?></lcMatchingItem><lcMatchingItemFeedback><lcFeedbackCorrect><?xm-replace_text Feedback?></lcFeedbackCorrect><lcFeedbackIncorrect><?xm-replace_text Feedback?></lcFeedbackIncorrect></lcMatchingItemFeedback></lcMatchingPair><lcMatchingPair><lcItem><?xm-replace_text Item?></lcItem><lcMatchingItem><?xm-replace_text Matching Item?></lcMatchingItem><lcMatchingItemFeedback><lcFeedbackCorrect><?xm-replace_text Feedback?></lcFeedbackCorrect><lcFeedbackIncorrect><?xm-replace_text Feedback?></lcFeedbackIncorrect></lcMatchingItemFeedback></lcMatchingPair></lcMatchTable></lcMatching><lcMultipleSelect><lcQuestion><?xm-replace_text Multiple-selection question?></lcQuestion>
+<lcAnswerOptionGroup><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption> <lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption> <lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption> <lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption> </lcAnswerOptionGroup></lcMultipleSelect><lcOpenQuestion><lcQuestion><?xm-replace_text Open question?></lcQuestion></lcOpenQuestion><lcSequencing><lcQuestion><?xm-replace_text Sequencing question?></lcQuestion> 
+<lcSequenceOptionGroup><lcSequenceOption><lcAnswerContent><?xm-replace_text Item to put into sequence?></lcAnswerContent><lcSequence/></lcSequenceOption><lcSequenceOption><lcAnswerContent><?xm-replace_text Item to put into sequence?></lcAnswerContent><lcSequence/></lcSequenceOption><lcSequenceOption><lcAnswerContent><?xm-replace_text Item to put into sequence?></lcAnswerContent><lcSequence/></lcSequenceOption></lcSequenceOptionGroup></lcSequencing><lcSingleSelect> <lcQuestion><?xm-replace_text Single-selection question?></lcQuestion>
+<lcAnswerOptionGroup><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent>
+</lcAnswerOption><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent>
+</lcAnswerOption><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent>
+</lcAnswerOption></lcAnswerOptionGroup>
+ 
+</lcSingleSelect><lcTrueFalse><lcQuestion><?xm-replace_text True/false question?></lcQuestion>
+<lcAnswerOptionGroup><lcAnswerOption> <lcAnswerContent><?xm-replace_text Possible answer?></lcAnswerContent></lcAnswerOption></lcAnswerOptionGroup></lcTrueFalse></lcInteraction></learningAssessmentbody></learningAssessment>]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">learningPlan</Name>
+      <MiniTemplate><![CDATA[<learningPlan> 
+<title><?xm-replace_text Learning Plan Title?></title> 
+<shortdesc><?xm-replace_text Short Description?>
+</shortdesc><learningPlanbody> <lcProject> 
+<title><?xm-replace_text Title for "Project" Section?></title><lcClient> 
+<p><?xm-replace_text Client?>
+</p></lcClient><lcPlanTitle> 
+<p><?xm-replace_text Plan title?>
+</p></lcPlanTitle><lcCIN> 
+<p><?xm-replace_text Alternate identifier for project title?>
+</p></lcCIN><lcModDate> 
+<p><?xm-replace_text Project modification date?>
+</p></lcModDate><lcDelivDate> 
+<p><?xm-replace_text Project delivery date?>
+</p></lcDelivDate><lcPlanSubject> 
+<p><?xm-replace_text Project plan subject?>
+</p></lcPlanSubject><lcPlanDescrip> 
+<p><?xm-replace_text Project plan description?>
+</p></lcPlanDescrip><lcPlanPrereqs> 
+<p><?xm-replace_text Prerequisities?>
+</p></lcPlanPrereqs></lcProject> <lcNeedsAnalysis> 
+<title><?xm-replace_text Title for "Needs Analysis" Section?></title> 
+<lcOrganizational> 
+<title><?xm-replace_text Title for "Organization" Section?></title> 
+<lcGeneralDescription><?xm-replace_text Organization general description?></lcGeneralDescription>
+<lcGoals><?xm-replace_text Organization goals?></lcGoals><lcNeeds><?xm-replace_text Organization needs?></lcNeeds>
+<lcValues><?xm-replace_text Organization values?></lcValues><lcOrgConstraints><?xm-replace_text Organization constraints?></lcOrgConstraints></lcOrganizational>
+<lcPlanAudience> 
+<title><?xm-replace_text Title for "Audience" Section?></title> 
+<lcGeneralDescription><?xm-replace_text Audience general description?></lcGeneralDescription>
+<lcEdLevel><?xm-replace_text Audience educational level?></lcEdLevel><lcAge><?xm-replace_text Audience age range?></lcAge>
+<lcBackground><?xm-replace_text Audience background?></lcBackground> <lcSkills><?xm-replace_text Audience skills?></lcSkills>
+<lcKnowledge><?xm-replace_text Audience knowledge?></lcKnowledge> 
+<lcMotivation><?xm-replace_text Audience motivation?></lcMotivation> 
+<lcSpecChars><?xm-replace_text Audience special characteristics?></lcSpecChars></lcPlanAudience>
+<lcWorkEnv> 
+<title><?xm-replace_text Title for "Work Environment" Section?></title> 
+<lcWorkEnvDescription><?xm-replace_text Work environment description?></lcWorkEnvDescription>
+<lcPlanResources><?xm-replace_text Resources?></lcPlanResources><lcProcesses><?xm-replace_text Processes?></lcProcesses></lcWorkEnv>
+<lcTask> 
+<title><?xm-replace_text Title for "Task" Section?></title><lcTaskItem><?xm-replace_text Task item?></lcTaskItem>
+<lcKnowledge><?xm-replace_text Audience knowledge?></lcKnowledge><lcSkills><?xm-replace_text Audience skills?></lcSkills>
+<lcAttitude><?xm-replace_text Audience attitude?></lcAttitude></lcTask></lcNeedsAnalysis>
+<lcGapAnalysis> 
+<title><?xm-replace_text Title for "Gap Analysis" Section?></title><lcGapItem> 
+<title><?xm-replace_text Title for "Gap Item" Section?></title> 
+<lcPlanObjective><?xm-replace_text Plan objective?></lcPlanObjective> 
+<lcJtaItem><?xm-replace_text Job task analysis?></lcJtaItem> <lcGapItemDelta><?xm-replace_text Gap item delta?></lcGapItemDelta></lcGapItem></lcGapAnalysis>
+<lcIntervention> 
+<title><?xm-replace_text Title for "Intervention" Section?></title><lcInterventionItem> 
+<title><?xm-replace_text Title for "Intervention Item" Section?></title><lcLearnStrat><?xm-replace_text Strategy?></lcLearnStrat>
+<lcPlanObjective><?xm-replace_text Plan objective?></lcPlanObjective> 
+<lcAssessment><?xm-replace_text Assessment?></lcAssessment><lcDelivery><?xm-replace_text Delivery method?></lcDelivery></lcInterventionItem></lcIntervention>
+<lcTechnical> 
+<title><?xm-replace_text Title for "Technical Requirements" Section?></title>
+<lcLMS> 
+<title><?xm-replace_text Title for "LMS" Section?></title> 
+<p><?xm-replace_text Learning Management System name and version number?>
+</p></lcLMS><lcNoLMS> 
+<title><?xm-replace_text Title for "No LMS" Section?></title> 
+<p><?xm-replace_text No Learning Management System?>
+</p></lcNoLMS><lcHandouts> 
+<title><?xm-replace_text Title for "Handouts" Section?></title> 
+<p><?xm-replace_text Handouts?>
+</p></lcHandouts><lcClassroom> 
+<title><?xm-replace_text Title for "Classroom" Section?></title> 
+<p><?xm-replace_text Classroom?>
+</p></lcClassroom><lcOJT> 
+<title><?xm-replace_text Title for "On-the-job" Section?></title> 
+<p><?xm-replace_text On-the-job training?>
+</p></lcOJT><lcConstraints> 
+<title><?xm-replace_text Title for "Constraints" Section?></title> 
+<p><?xm-replace_text Constraints?>
+</p></lcConstraints><lcW3C> 
+<title><?xm-replace_text Title for "W3C" Section?></title> 
+<p><?xm-replace_text World Wide Web Consortium standards?>
+</p></lcW3C><lcPlayers> 
+<title><?xm-replace_text Title for "Players" Section?></title> 
+<p><?xm-replace_text Tools and plugins for time-sequenced display at runtime?>
+</p></lcPlayers><lcGraphics> 
+<title><?xm-replace_text Title for "Graphics" Section?></title> 
+<p><?xm-replace_text Standards and system requirements required for displaying graphics?>
+</p></lcGraphics><lcViewers> 
+<title><?xm-replace_text Title for "Viewers" Section"?></title> 
+<p><?xm-replace_text Viewers for time-sequenced display at runtime?>
+</p></lcViewers><lcResolution> 
+<title><?xm-replace_text Title for "Resolution" Section?></title> 
+<p><?xm-replace_text Computer screen resolution?>
+</p></lcResolution><lcFileSizeLimitations> 
+<title><?xm-replace_text Title for "File Size" Section?></title> 
+<p><?xm-replace_text File size limitations?>
+</p></lcFileSizeLimitations><lcDownloadTime> 
+<title><?xm-replace_text Title for "Download Time" Section?></title> 
+<p><?xm-replace_text Maximum time allowed for download?>
+</p></lcDownloadTime><lcSecurity> 
+<title><?xm-replace_text Title for "Security Requirements" Section?></title> 
+<p><?xm-replace_text Security requirements?>
+</p></lcSecurity></lcTechnical></learningPlanbody> </learningPlan>]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">learningOverview</Name>
+      <MiniTemplate><![CDATA[<learningOverview>
+	<title><?xm-replace_text Learning Overview Title?></title>
+	<shortdesc><?xm-replace_text Short Description?>
+	</shortdesc>
+<learningOverviewbody><lcIntro>
+<p><?xm-replace_text Introduction?>
+</p></lcIntro><lcAudience>
+<p><?xm-replace_text Audience?>
+</p></lcAudience> <lcDuration><lcTime><?xm-replace_text Time needed for this activity?></lcTime></lcDuration><lcPrereqs>
+<p><?xm-replace_text Prerequisites?>
+</p></lcPrereqs><lcObjectives> <lcObjectivesStem><?xm-replace_text Introductory sentence for the list of learning objectives?></lcObjectivesStem> <lcObjectivesGroup> 
+<lcObjective><?xm-replace_text Learning objective?></lcObjective> </lcObjectivesGroup>
+</lcObjectives><lcResources> 
+<p><?xm-replace_text Resources?>
+</p></lcResources></learningOverviewbody></learningOverview>]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">learningSummary</Name>
+      <MiniTemplate><![CDATA[<learningSummary>
+	<title><?xm-replace_text Learning Summary Title?></title>
+	<shortdesc><?xm-replace_text Short Description?>
+	</shortdesc>
+	<learningSummarybody>
+		<lcObjectives>
+			<lcObjectivesStem><?xm-replace_text Introductory sentence for the list of learning objectives?></lcObjectivesStem>
+			<lcObjectivesGroup>
+				<lcObjective><?xm-replace_text Learning objective?></lcObjective>
+			</lcObjectivesGroup>
+		</lcObjectives>
+		<lcReview>
+			<p><?xm-replace_text Review?>
+			</p></lcReview><lcSummary>
+			<p><?xm-replace_text Summary?>
+			</p></lcSummary><lcResources>
+			<p><?xm-replace_text Resources?>
+			</p></lcResources>
+		<lcNextSteps>
+			<p><?xm-replace_text Next steps?>
+			</p></lcNextSteps></learningSummarybody>
+</learningSummary>
+]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">lcObjective</Name>
+      <MiniTemplate><![CDATA[<lcObjective><?xm-replace_text Learning objective?></lcObjective>]]></MiniTemplate>
+    </Template>
+    
+    
+    <Template>
+      <Name ns="">hazardstatement</Name>
+      <MiniTemplate><![CDATA[<hazardstatement>
+					<messagepanel>
+						<typeofhazard><?xm-replace_text Hazard
+		  type?></typeofhazard>
+						<consequence><?xm-replace_text Consequence of the hazard ?></consequence>
+						<howtoavoid><?xm-replace_text How to avoid the
+		  hazard ?></howtoavoid></messagepanel></hazardstatement>]]></MiniTemplate>
+    </Template>
+    
+        
+    <Template>
+      <Name ns="">typeofhazard</Name>
+      <MiniTemplate><![CDATA[<typeofhazard><?xm-replace_text Hazard
+		  type?></typeofhazard>]]></MiniTemplate>
+    </Template>
+    
+        
+    <Template>
+      <Name ns="">consequence</Name>
+      <MiniTemplate><![CDATA[<consequence><?xm-replace_text Consequence of the hazard ?></consequence>]]></MiniTemplate>
+    </Template>
+    
+    
+        
+    <Template>
+      <Name ns="">howtoavoid</Name>
+      <MiniTemplate><![CDATA[<howtoavoid><?xm-replace_text How to avoid the
+		  hazard ?></howtoavoid>]]></MiniTemplate>
+    </Template>
+    
+    
+     <Template>
+      <Name ns="">closereqs</Name>
+      <MiniTemplate><![CDATA[<closereqs>
+			<reqconds>
+				<reqcond><?xm-replace_text Condition ?></reqcond>
+			</reqconds>
+		</closereqs>
+	]]></MiniTemplate>
+    </Template>
+ 
+ 
+        
+    <Template>
+      <Name ns="">reqconds</Name>
+      <MiniTemplate><![CDATA[<reqconds>
+				<reqcond><?xm-replace_text Condition ?></reqcond>
+			</reqconds>]]></MiniTemplate>
+    </Template>
+    
+        
+    <Template>
+      <Name ns="">reqcond</Name>
+      <MiniTemplate><![CDATA[<reqcond><?xm-replace_text Condition ?></reqcond>]]></MiniTemplate>
+    </Template>
+    
+        
+    <Template>
+      <Name ns="">prelreqs</Name>
+      <MiniTemplate><![CDATA[<prelreqs>
+			<reqconds>
+				<reqcond><?xm-replace_text Condition ?></reqcond>
+				<reqcontp><?xm-replace_text Publication?></reqcontp>
+			</reqconds>
+			<reqpers>
+				<personnel><?xm-replace_text Minimum
+	 number of personnel ?></personnel>
+				<perscat><?xm-replace_text Personnel category ?></perscat>
+				<perskill><?xm-replace_text Skill level ?></perskill>
+				<esttime><?xm-replace_text Estimated time ?></esttime>
+			</reqpers>
+			<supequip>
+				<supeqli>
+					<supequi><?xm-replace_text Equipment item ?></supequi>
+				</supeqli>
+			</supequip>
+			<supplies>
+				<supplyli>
+					<supply><?xm-replace_text Supply item ?></supply>
+				</supplyli>
+			</supplies>
+			<spares>
+				<sparesli>
+					<spare><?xm-replace_text Spare part ?></spare>
+				</sparesli>
+			</spares>
+			<safety>
+				<safecond><?xm-replace_text Safety condition ?></safecond>
+			</safety>
+		</prelreqs>]]></MiniTemplate>
+    </Template>
+    
+        
+    <Template>
+      <Name ns="">reqconds</Name>
+      <MiniTemplate><![CDATA[<reqconds>
+				<reqcond><?xm-replace_text Condition ?></reqcond>
+				<reqcontp><?xm-replace_text Publication?></reqcontp>
+			</reqconds>]]></MiniTemplate>
+    </Template>
+    
+        
+    <Template>
+      <Name ns="">reqcontp</Name>
+      <MiniTemplate><![CDATA[<reqcontp><?xm-replace_text Publication?></reqcontp>]]></MiniTemplate>
+    </Template>
+    
+        
+    <Template>
+      <Name ns="">reqpers</Name>
+      <MiniTemplate><![CDATA[<reqpers>
+				<personnel><?xm-replace_text Minimum
+	 number of personnel ?></personnel>
+				<perscat><?xm-replace_text Personnel category ?></perscat>
+				<perskill><?xm-replace_text Skill level ?></perskill>
+				<esttime><?xm-replace_text Estimated time ?></esttime>
+			</reqpers>]]></MiniTemplate>
+    </Template>
+    
+        
+    <Template>
+      <Name ns="">personnel</Name>
+      <MiniTemplate><![CDATA[<personnel><?xm-replace_text Minimum
+	 number of personnel ?></personnel>]]></MiniTemplate>
+    </Template>
+    
+        
+    <Template>
+      <Name ns="">perscat</Name>
+      <MiniTemplate><![CDATA[<perscat><?xm-replace_text Personnel category ?></perscat>]]></MiniTemplate>
+    </Template>
+   
+        
+    <Template>
+      <Name ns="">perskill</Name>
+      <MiniTemplate><![CDATA[<perskill><?xm-replace_text Skill level ?></perskill>]]></MiniTemplate>
+    </Template>              
+  
+    <Template>
+      <Name ns="">esttime</Name>
+      <MiniTemplate><![CDATA[<esttime><?xm-replace_text Estimated time ?></esttime>
+			]]></MiniTemplate>
+    </Template>              
+  
+    <Template>
+      <Name ns="">supequip</Name>
+      <MiniTemplate><![CDATA[<supequip>
+				<supeqli>
+					<supequi><?xm-replace_text Equipment item ?></supequi>
+				</supeqli>
+			</supequip>]]></MiniTemplate>
+    </Template>              
+  
+    <Template>
+      <Name ns="">supeqli</Name>
+      <MiniTemplate><![CDATA[<supeqli>
+					<supequi><?xm-replace_text Equipment item ?></supequi>
+				</supeqli>]]></MiniTemplate>
+    </Template>              
+  
+    <Template>
+      <Name ns="">supequi</Name>
+      <MiniTemplate><![CDATA[<supequi><?xm-replace_text Equipment item ?></supequi>]]></MiniTemplate>
+    </Template>              
+  
+    <Template>
+      <Name ns="">supplies</Name>
+      <MiniTemplate><![CDATA[<supplies>
+				<supplyli>
+					<supply><?xm-replace_text Supply item ?></supply>
+				</supplyli>
+			</supplies>]]></MiniTemplate>
+    </Template>              
+  
+    <Template>
+      <Name ns="">supplyli</Name>
+      <MiniTemplate><![CDATA<supplyli>
+					<supply><?xm-replace_text Supply item ?></supply>
+				</supplyli>MiniTemplate>
+    </Template>
+                  
+    <Template>
+      <Name ns="">supply</Name>
+      <MiniTemplate><![CDATA[<supply><?xm-replace_text Supply item ?></supply>]]></MiniTemplate>
+    </Template>
+                  
+    <Template>
+      <Name ns="">spares</Name>
+      <MiniTemplate><spares>
+				<sparesli>
+					<spare><?xm-replace_text Spare part ?></spare>
+				</sparesli>
+			</spares><![CDATA[]]></MiniTemplate>
+    </Template>
+                  
+    <Template>
+      <Name ns="">sparesli</Name>
+      <MiniTemplate><![CDATA[<sparesli>
+					<spare><?xm-replace_text Spare part ?></spare>
+				</sparesli>]]></MiniTemplate>
+    </Template>
+                  
+    <Template>
+      <Name ns="">spare</Name>
+      <MiniTemplate><![CDATA[<spare><?xm-replace_text Spare part ?></spare>]]></MiniTemplate>
+    </Template>
+                  
+    <Template>
+      <Name ns="">safety</Name>
+      <MiniTemplate><![CDATA[<safety>
+				<safecond><?xm-replace_text Safety condition ?></safecond>
+			</safety>]]></MiniTemplate>
+    </Template>
+                  
+    <Template>
+      <Name ns="">safecond</Name>
+      <MiniTemplate><![CDATA[<safecond><?xm-replace_text Safety condition ?></safecond>]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">glossAbbreviation</Name>
+      <MiniTemplate><![CDATA[<glossAbbreviation><?xm-replace_text Abbreviation ?></glossAbbreviation>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">glossSynonym</Name>
+      <MiniTemplate><![CDATA[<glossSynonym><?xm-replace_text Synonym ?></glossSynonym>]]></MiniTemplate>
+    </Template>                                                                                                                              
+
+    <Template>
+      <Name ns="">glossAcronym</Name>
+      <MiniTemplate><![CDATA[<glossAcronym><?xm-replace_text Acronym ?></glossAcronym>]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">glossScopeNote</Name>
+      <MiniTemplate><![CDATA[<glossScopeNote><?xm-replace_text Scope note ?></glossScopeNote>]]></MiniTemplate>
+    </Template>
+
+    <Template>
+      <Name ns="">glossUsage</Name>
+      <MiniTemplate><![CDATA[<glossUsage><?xm-replace_text Usage ?></glossUsage>]]></MiniTemplate>
+    </Template>
+    
+     <Template>
+      <Name ns="">glossProperty</Name>
+      <MiniTemplate><![CDATA[<glossProperty><?xm-replace_text Other property (use name and value
+  attributes) ?></glossProperty>]]></MiniTemplate>
+    </Template>
+
+     <Template>
+      <Name ns="">glossSurfaceForm</Name>
+      <MiniTemplate><![CDATA[<glossSurfaceForm><?xm-replace_text Surface form ?></glossSurfaceForm>]]></MiniTemplate>
+    </Template>
+    
+     <Template>
+      <Name ns="">glossShortForm</Name>
+      <MiniTemplate><![CDATA[<glossShortForm><?xm-replace_text Short form ?></glossShortForm>]]></MiniTemplate>
+    </Template>
+    
+    <Template>
+      <Name ns="">glossBody</Name>
+      <MiniTemplate><![CDATA[<glossBody> <glossPartOfSpeech/> <glossStatus/><glossProperty><?xm-replace_text Other property (use name and value
+  attributes) ?></glossProperty><glossSurfaceForm><?xm-replace_text Surface
+  form ?></glossSurfaceForm><glossUsage><?xm-replace_text Usage ?></glossUsage>
+  <glossScopeNote><?xm-replace_text Scope note ?></glossScopeNote><glossAlt> 
+  <glossAcronym><?xm-replace_text Acronym ?></glossAcronym> </glossAlt> 
+  <glossAlt> <glossSynonym><?xm-replace_text Synonym ?></glossSynonym>
+  </glossAlt> <glossAlt><glossShortForm><?xm-replace_text Short form ?></glossShortForm></glossAlt>
+  <glossAlt><glossAlternateFor/></glossAlt></glossBody>]]></MiniTemplate>
+    </Template>
+    
+  </Templates> 
+  <ChangeLists>
+    <ChangeList>
+      <Selectors>
+        <Selector>
+          <Name ns="">#DEFAULT</Name>
+          <Parent ns="">section</Parent>
+        </Selector>
+      </Selectors>
+      <ChangeListElements>
+        <ChangeListElement ns="">note</ChangeListElement>
+        <ChangeListElement ns="">ol</ChangeListElement>
+        <ChangeListElement ns="">p</ChangeListElement>
+        <ChangeListElement ns="">sl</ChangeListElement>
+        <ChangeListElement ns="">ul</ChangeListElement>
+      </ChangeListElements>
+    </ChangeList>
+  </ChangeLists>
+   <OCXReplacements>
+    <OCXReplacement>
+      <SelectorName ns="">image</SelectorName>
+      <MacroPrefix>ImageAsSVG</MacroPrefix>
+      <ClassID>{EAB22AC3-30C1-11CF-A7EB-0000C05BAE0B}</ClassID>
+      <ProgID>Shell.Explorer.1</ProgID>
+	  <UseBmpPrinting/>
+    </OCXReplacement>
+    <OCXReplacement>
+      <SelectorName ns="">object</SelectorName>
+      <MacroPrefix>ObjectAsXFT</MacroPrefix>
+      <ProgID>XF.XFTForm</ProgID>
+    </OCXReplacement>
+    <OCXReplacement>
+      <SelectorName ns="">object</SelectorName>
+      <MacroPrefix>ObjectAsSVG</MacroPrefix>
+      <ClassID>{EAB22AC3-30C1-11CF-A7EB-0000C05BAE0B}</ClassID>
+      <ProgID>Shell.Explorer.1</ProgID>
+    </OCXReplacement>
+  </OCXReplacements>
+  <Images>
+    <Image>
+      <Name ns="">image</Name>
+      <Source-Attribute>keyref href</Source-Attribute>
+      <Height-Attribute>height</Height-Attribute>
+      <Width-Attribute>width</Width-Attribute>
+      <AltText-Attribute>alt</AltText-Attribute>
+      <Valign-Attribute>align</Valign-Attribute>
+	<Selector-AttrName>class</Selector-AttrName>
+	<Selector-AttrValue>topic/image</Selector-AttrValue>
+      <Scale-Attribute>scale</Scale-Attribute>
+      <EnableTreatAsLink>false</EnableTreatAsLink>
+    </Image>
+    <Image>
+      <Name ns="">hazardsymbol</Name>
+      <Source-Attribute>keyref href</Source-Attribute>
+      <Height-Attribute>height</Height-Attribute>
+      <Width-Attribute>width</Width-Attribute>
+            <AltText-Attribute></AltText-Attribute>
+      <Valign-Attribute>align</Valign-Attribute>
+	<Selector-AttrName>class</Selector-AttrName>
+	<Selector-AttrValue>topic/image</Selector-AttrValue>
+      <Scale-Attribute>scale</Scale-Attribute>
+      <EnableTreatAsLink>true</EnableTreatAsLink>
+    </Image>
+    
+    <Image>
+      <Name ns="">glossSymbol</Name>
+      <Source-Attribute>keyref href</Source-Attribute>
+      <Height-Attribute>height</Height-Attribute>
+      <Width-Attribute>width</Width-Attribute>
+            <AltText-Attribute></AltText-Attribute>
+      <Valign-Attribute>align</Valign-Attribute>
+	<Selector-AttrName>class</Selector-AttrName>
+	<Selector-AttrValue>topic/image</Selector-AttrValue>
+      <Scale-Attribute>scale</Scale-Attribute>
+      <EnableTreatAsLink>true</EnableTreatAsLink>
+    </Image>
+  </Images>
+</DTDExtensions>
